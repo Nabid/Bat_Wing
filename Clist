@@ -1,0 +1,10 @@
+history - show history
+os_info - show operating system info
+filesystem - show information about file
+systemhardware_info - show information about hardware
+lang - show language
+user_info - show user information
+help - show this CList file
+cd - change directory
+quit - quits program
+fcmp - file compare
